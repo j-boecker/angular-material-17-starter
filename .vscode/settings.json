@@ -1,8 +1,11 @@
 {
-    "angular-schematics.schematicsDefaultOptions": {
-        "angular-*": {
-            "style": "scss",
-            "externalTemplate": true
-        }
+  "angular-schematics.schematicsDefaultOptions": {
+    "angular-*": {
+      "style": "scss",
+      "externalTemplate": true
     }
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true
 }
